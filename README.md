@@ -6,3 +6,4 @@ JUST A SIMPLE REPO FOR PYPROBLEMS
 2) Program to generate fibonacci series
 3) Program to calculate factorial
 4) Program to check if a number is Armstrong 
+5) Program to convert list of rows into list of columns
